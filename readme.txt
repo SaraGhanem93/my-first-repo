@@ -1,4 +1,5 @@
 Welcome to my first repository
 learning Git is going far well
 let's add new line in the file to see effect of branching
-it is windy today
+it is cloudy today
+
