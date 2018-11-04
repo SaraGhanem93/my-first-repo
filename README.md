@@ -16,5 +16,5 @@ my favourite meals are:
 - Salads
 - Dark chocolate <3
 
-###contact
+### Contact
 The best way to contact me is through [LinkedIn](www.linkedin.com/in/sara-m-ghanem-4514648b)
